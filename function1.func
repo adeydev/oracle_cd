@@ -1,0 +1,6 @@
+create or replace function abc as
+begin
+dbms_output.put_line('hello world');
+end;
+/
+
